@@ -1,0 +1,25 @@
+* {
+    background-color: #dfe7fd;
+}
+#title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.shopItem {
+    margin-top: 50px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 25vh;
+    object-fit: cover;
+}
+
+.item-qty {
+    width: 70px;
+}
+
+#box {
+    justify-content: center;
+}
